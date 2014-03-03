@@ -11,6 +11,7 @@ Within these files, make sure to set the ```directory``` directive to ```public/
 Installation
 ============
 ```bundle install```
+```brew install phantomjs```
 
 Usage
 =====
